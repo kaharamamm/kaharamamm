@@ -8,7 +8,7 @@ I’m **Ahmet Kadir Zengin**, a software engineer working across **full-stack ap
 
 I also explore **game development** and reusable gameplay systems.
 
-**[Portfolio](https://www.ahmetkadirzengin.com/)** · **[LinkedIn](https://www.linkedin.com/in/ahmetkadirzengin/)** · **[Projects](https://www.ahmetkadirzengin.com/)**
+**[Portfolio](https://www.ahmetkadirzengin.com/)** · **[LinkedIn](https://www.linkedin.com/in/ahmetkadirzengin/)** · **[Projects](https://www.ahmetkadirzengin.com/projects)**
 
 ---
 
@@ -20,7 +20,6 @@ I also explore **game development** and reusable gameplay systems.
 | **UTEST Software Platform** | Industrial testing interfaces, real-time measurements, reporting, and cross-platform delivery tooling. |
 | **Game-Forge** | Modular systems and tooling for configurable game development. *In development.* |
 | **CamelBot** | Community automation and integrations across platforms. |
-| **[Cross-platform Launcher](https://github.com/kaharamamm/Cross-platform-Launcher)** | Desktop launcher engineering with cross-platform application technologies. |
 
 > Some professional and research projects are private. Selected case studies are presented on my [portfolio](https://www.ahmetkadirzengin.com/).
 
