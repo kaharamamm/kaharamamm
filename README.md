@@ -21,13 +21,18 @@ I also explore **game development** and reusable gameplay systems.
 | **Game-Forge** | Modular systems and tooling for configurable game development. *In development.* |
 | **CamelBot** | Community automation and integrations across platforms. |
 
-> Some professional and research projects are private. Selected case studies are presented on my [portfolio](https://www.ahmetkadirzengin.com/).
+## Technical Focus
 
-### What I work with
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" /> Web & Applications
+TypeScript, JavaScript, React, Next.js, REST APIs, WebSockets
 
-**Web & applications** - TypeScript, JavaScript, React, Next.js, REST APIs, WebSockets  
-**Systems & desktop** - C#, .NET, Electron, Avalonia, desktop and release tooling  
-**AI & game development** - Multi-agent architectures, evaluation workflows, Unity, interactive applications
+### <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18" /> Systems & Desktop
+C#, .NET, Electron, Avalonia, desktop and release tooling
+
+### <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="18" /> AI & Game Development
+Multi-agent architectures, evaluation workflows, Unity, interactive applications
+
+---
 
 ### Background
 
