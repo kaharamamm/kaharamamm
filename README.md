@@ -25,14 +25,14 @@ I also explore **game development** and reusable gameplay systems.
 
 ### What I work with
 
-**Web & applications** — TypeScript, JavaScript, React, Next.js, REST APIs, WebSockets  
-**Systems & desktop** — C#, .NET, Electron, Avalonia, desktop and release tooling  
-**AI & game development** — Multi-agent architectures, evaluation workflows, Unity, interactive applications
+**Web & applications** - TypeScript, JavaScript, React, Next.js, REST APIs, WebSockets  
+**Systems & desktop** - C#, .NET, Electron, Avalonia, desktop and release tooling  
+**AI & game development** - Multi-agent architectures, evaluation workflows, Unity, interactive applications
 
 ### Background
 
-- **Software Engineer**, UTEST — industrial application interfaces and engineering tools.
-- **Previously**, Cerebrum Technologies — Android and Unity application development.
+- **Software Engineer**, UTEST · industrial application interfaces and engineering tools.
+- **Previously**, Cerebrum Technologies · Android and Unity application development.
 - **B.Sc. in Software Engineering**, Atılım University.
 - **Languages:** Turkish (native) · English (C2).
 
